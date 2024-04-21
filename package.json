@@ -1,0 +1,19 @@
+{
+  "name": "de-base64-to-image",
+  "version": "1.0.0",
+  "description": "A package to convert Base64 data to images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64",
+    "image",
+    "converter"
+  ],
+  "author": "charanmadhu",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.3"
+  }
+}
